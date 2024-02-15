@@ -3,6 +3,9 @@ sidebar_position: 2
 ---
 
 # Minima Privacy Policy
+
+testing 123 15/02/2024
+
 Last updated: 2.7.21
 
 This notice tells you how we look after your personal data when you visit our website at https://minima.global/ (Website), use our services or participate in our Minima Incentive Program (together, the Services).
